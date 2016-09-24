@@ -1,0 +1,4 @@
+CurrentProcessId = 11848
+ServerProcessID = 14204
+ServerSessionID = 808542512
+HoudiniSceneExists = true
